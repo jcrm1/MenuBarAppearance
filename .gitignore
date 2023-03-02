@@ -92,3 +92,6 @@ iOSInjectionProject/
 # I have the license to use my icon, but not to distribute it with source:
 
 AppIcon.appiconset
+
+# macOS metadata
+.DS_Store
